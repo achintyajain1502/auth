@@ -10,7 +10,7 @@ projects:
       - elective-management-system
     maintainers:
       - viv2005ek
-      - geervan
+      - Geervan
       - InternetMadeCoder
 
   event-form:
@@ -49,6 +49,7 @@ projects:
       - ShivankG0EL
       - thecoderwithHat
       - DoctorDictator
+      - arunika-ui
       - Jaysharmamuj
 
   NPTEL:
@@ -71,6 +72,7 @@ projects:
     maintainers:
       - InternetMadeCoder
       - krishsharma0413
+      - achintyajain1502
 
   sdc-chatbot:
     repos:
@@ -85,6 +87,8 @@ projects:
       - Kroszborg
       - arukh281
       - krishsharma0413
+      - vinayaktyagi10
+      - achintyajain1502
 
   travel-buddy:
     repos:
@@ -181,7 +185,29 @@ projects:
     maintainers:
       - vinayaktyagi10
       - achintyajain1502
+      - InternetMadeCoder
 
+  auditorium-booking-system:
+    repos:
+      - auditorium-booking-system
+    maintainers:
+      - sanjanaaraii
+  
+  gpuallocation:
+    repos:
+      - gpuallocation
+    maintainers:
+      - adhyasharma1806
+
+  RMS_MUJ:
+    repos:
+      - RMS_MUJ
+    maintainers:
+      - thecoderwithHat
+      - isyedsamad
+      - DoctorDictator
+      - adityasinha-1988
+      
 internal_team:
   project-manager:
     - Hiya-Ghosh
@@ -196,3 +222,4 @@ internal_team:
 
   admin:
     - SDCMUJ
+
