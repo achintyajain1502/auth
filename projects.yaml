@@ -49,7 +49,6 @@ projects:
       - ShivankG0EL
       - thecoderwithHat
       - DoctorDictator
-      - arunika-ui
       - Jaysharmamuj
 
   NPTEL:
@@ -199,6 +198,13 @@ projects:
     maintainers:
       - adhyasharma1806
 
+  ICCAIML:
+    repos:
+      - ICCAIML
+    maintainers:
+      - achintyajain1502
+      - Geervan
+
   RMS_MUJ:
     repos:
       - RMS_MUJ
@@ -207,6 +213,13 @@ projects:
       - isyedsamad
       - DoctorDictator
       - adityasinha-1988
+
+  icqtam:
+    repos:
+      - icqtam
+    maintainers:
+      - achintyajain1502
+      - Prasoonm11
       
 internal_team:
   project-manager:
